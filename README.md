@@ -1,4 +1,4 @@
- #Digital Lock System using Moore FSM
+ ## Digital Lock System using Moore FSM
 
 ## Problem Statement
 

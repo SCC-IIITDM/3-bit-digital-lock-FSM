@@ -13,4 +13,5 @@ However, to simplify the design and reduce complexity, the two-level structure w
 
 System Behaviour:-
 1)If correct sequence(0->1->1) is entered the output will be high and can be immediately noticed in the waveform
+
 2)if any wrong input is given then door will remain locked
